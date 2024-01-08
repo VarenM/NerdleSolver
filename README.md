@@ -1,8 +1,8 @@
 run the program using java (download java)
 
-place the two files in a folder and within a bash terminal, navigate to the folder and type: javac nerdlesolver.java (for compilation)
-
 open up solver.java and change line 65 (under the comment) to your file location of the eqs.txt file (use same syntax as example provided)
+
+place the two files in a folder and within a bash terminal, navigate to the folder and type: javac nerdlesolver.java (for compilation)
 
 then type: java nerdlesolver (to run program)
 
